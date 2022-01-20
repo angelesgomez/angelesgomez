@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelesgomez&show_icons=true&theme=tokyonight&hide=issues,stars&show_owner=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelesgomez&layout=compact&theme=tokyonight">   <!--  Para que aparezcan los lenguajes en uso: -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelesgomez&show_icons=true&theme=tokyonight&hide=issues,stars&show_owner=true&locale=es">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelesgomez&layout=compact&theme=tokyonight&locale=es">   <!--  Para que aparezcan los lenguajes en uso: -->
  <!-- locale=es para el idioma -->
  
 
