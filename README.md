@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 <div display="flex">
 
-<img height="50%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelesgomez&layout=compact&theme=tokyonight&locale=es">  
+<!--<img height="50%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelesgomez&layout=compact&theme=tokyonight&locale=es">  
  
- <img height="50%" width="53%"  src="https://github-readme-stats.vercel.app/api?username=angelesgomez&show_icons=true&theme=tokyonight&hide=issues,stars&show_owner=true&locale=es">
+ <img height="50%" width="53%"  src="https://github-readme-stats.vercel.app/api?username=angelesgomez&show_icons=true&theme=tokyonight&hide=issues,stars&show_owner=true&locale=es">-->
  
  <img height="50%" width="40%" src="https://github-readme-stats.vercel.app/api?username=angelesgomez&show_icons=true&theme=transparent&locale=es">  
 </div>
