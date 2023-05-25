@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  
  <img height="50%" width="53%"  src="https://github-readme-stats.vercel.app/api?username=angelesgomez&show_icons=true&theme=tokyonight&hide=issues,stars&show_owner=true&locale=es">
  
+ <img height="50%" width="40%" src="https://github-readme-stats.vercel.app/api?username=angelesgomez&show_icons=true&theme=transparent">  
 </div>
 <br>
 <h4>¡Gracias por visitar mi perfil de Github!</h4>
