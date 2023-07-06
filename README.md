@@ -1,6 +1,10 @@
 <h1>Hola 👋</h1>
 
-<h3><span>&#128187;</span>Acá podrás encontrar algunos de mis proyectos...</h3>
+<h3><span>&#128187;</span>Podrás encontrar algunos de mis proyectos desde:</h3>
+<ul>
+ <li>⭐ Estrellas</li>
+ <li></li>
+</ul>
 <h4>¡Gracias por tu interés y por visitar mi perfil de Github!</h4>
 <!--
 **angelesgomez/angelesgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
